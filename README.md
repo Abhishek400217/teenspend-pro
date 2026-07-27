@@ -394,7 +394,7 @@ https://github.com/Abhishek400217/TeenSpend-Pro
 
 # 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome.
+Contributions, suggestions, and feature requests are always welcome.
 
 If you'd like to improve TeenSpend Pro:
 
@@ -420,12 +420,11 @@ If you'd like to improve TeenSpend Pro:
 
 # ⭐ Support
 
-If you found this project helpful, please consider giving it a **⭐ Star** on GitHub.
-
-Your support motivates further development and improvements.
+If you found this project useful, consider giving it a ⭐ Star on GitHub.
+It really helps the project grow and motivates future improvements.
 
 ---
 
 <p align="center">
-  Made with ❤️ by <strong>Abhishek Karande</strong>
+  Made by <strong>Abhishek Karande</strong>
 </p>
