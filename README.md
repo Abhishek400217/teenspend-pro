@@ -50,6 +50,16 @@ Designed with a production-ready architecture, TeenSpend Pro combines a responsi
 This project was developed as a **Final Year Project**, while also serving as a **Portfolio Project**, **Resume Project**, and a practical learning experience in building, deploying, and maintaining real-world full-stack applications.
 
 ---
+## 🎯 Project Objectives
+
+TeenSpend Pro was built to help students and young professionals manage their personal finances in one place. The project focuses on secure authentication, expense tracking, savings goals, subscription management, and financial insights while following modern full-stack development practices.
+
+### Objectives
+- Simplify daily expense tracking
+- Encourage better saving habits
+- Provide clear financial insights through dashboards
+- Build a production-ready full-stack application using React and Spring Boot
+
 
 # ✨ Key Features
 
@@ -197,6 +207,14 @@ The goal is to transform financial management into a simple, insightful, and eng
 - Postman
 
 ---
+## 🧪 Testing
+
+The application has been tested using:
+
+- Postman for REST API testing
+- MySQL Workbench for database validation
+- Browser testing on Chrome and Edge
+- Manual end-to-end testing for authentication and expense workflows
 ---
 
 # 📁 Project Structure
