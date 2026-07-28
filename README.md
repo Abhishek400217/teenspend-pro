@@ -292,6 +292,15 @@ Expenses Goals Subscriptions Analytics
               ▼
        Better Money Habits
 ```
+## 📌 Key Highlights
+
+- Secure JWT Authentication
+- RESTful API Architecture
+- Responsive React Frontend
+- Cloud Deployment with Vercel & Railway
+- MySQL Database Integration
+- Modular and Scalable Code Structure
+
 # 🚀 Getting Started
 
 ## Prerequisites
@@ -435,7 +444,17 @@ If you'd like to improve TeenSpend Pro:
 🔗 GitHub: https://github.com/Abhishek400217
 
 ---
+## 📚 Learning Outcomes
 
+This project helped me gain hands-on experience with:
+
+- Full Stack Development
+- REST API Design
+- Spring Security & JWT
+- Database Design using MySQL
+- Cloud Deployment
+- Git & GitHub Workflow
+  
 # ⭐ Support
 
 If you found this project useful, consider giving it a ⭐ Star on GitHub.
