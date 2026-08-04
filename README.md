@@ -47,7 +47,7 @@ The application enables users to securely manage daily expenses, monitor subscri
 
 Designed with a production-ready architecture, TeenSpend Pro combines a responsive React frontend, a secure Spring Boot backend, JWT-based authentication, and a cloud-hosted MySQL database to deliver a smooth and reliable user experience.
 
-This project was developed as a **Final Year Project**, while also serving as a **Portfolio Project**, **Resume Project**, and a practical learning experience in building, deploying, and maintaining real-world full-stack applications.
+This project was developed as a **Final Year Project**, while also serving as a **Resume Project**, and a practical learning experience in building, deploying, and maintaining real-world full-stack applications.
 
 ---
 ## 🎯 Project Objectives
