@@ -68,7 +68,6 @@ TeenSpend Pro was built to help students and young professionals manage their pe
 - Secure User Registration & Login
 - JWT Authentication
 - BCrypt Password Encryption
-- Protected Routes
 - Persistent User Sessions
 - Secure REST APIs
 
